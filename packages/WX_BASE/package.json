@@ -1,0 +1,14 @@
+{
+  "name": "wx_base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -s -l 4200"
+  },
+  "author": "Sage People",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}

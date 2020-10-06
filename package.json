@@ -1,0 +1,15 @@
+{
+  "name": "wx_2",
+  "version": "1.0.0",
+  "description": "WX Meta Repository",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "author": "Sage People",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "main": "index.js"
+}

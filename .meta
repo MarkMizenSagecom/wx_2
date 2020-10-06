@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "packages\\logo-bar": "https://github.com/MarkMizenSagecom/wx_2__logo-bar.git",
+    "packages\\service-bar": "https://github.com/MarkMizenSagecom/wx_2__service-bar.git"
+  }
+}
